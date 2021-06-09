@@ -1,0 +1,1 @@
+export {AddHomePage} from './HomePage';

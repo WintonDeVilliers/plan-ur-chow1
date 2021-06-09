@@ -1,0 +1,1 @@
+export {RecipesSearchPage} from './RecipesSearchPage'
